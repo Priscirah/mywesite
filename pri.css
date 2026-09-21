@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    border: 0cap;
+}
+
+h1{
+    color: beige;
+    padding: 20px;
+
+}
+button{
+    color: black;
+    margin: 12px;
+}
+button-hoover{
+    color: yellow;
+}
